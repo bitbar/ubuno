@@ -5,8 +5,7 @@
 ## Info
 
 * Based on Ubuntu LTS (18.04)
-* Node.js LTS (10)
-* Python 2.7 (installed by Node.js installer)
+* Node.js LTS (12)
 * [confd](https://github.com/kelseyhightower/confd) onboard
 * other tools:
 
@@ -18,9 +17,13 @@
 
 ## Changelog
 
+* **2.0.0**
+
+  * Node.js updated to 12
+
 * **1.0.0**
 
-  * First public version
+  * First public version with Node.js 10
 
 ## License
 
