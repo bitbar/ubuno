@@ -17,6 +17,10 @@
 
 ## Changelog
 
+* **2.0.1**
+
+  * Patch: Added missing `CMD`
+
 * **2.0.0**
 
   * Node.js updated to 12
