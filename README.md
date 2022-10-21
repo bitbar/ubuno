@@ -4,8 +4,8 @@
 
 ## Info
 
-* Based on Ubuntu LTS (18.04)
-* Node.js LTS (12)
+* Based on Ubuntu LTS (22.04)
+* Node.js (14)
 * [confd](https://github.com/kelseyhightower/confd) onboard
 * other tools:
 
@@ -16,6 +16,9 @@
   * tree
 
 ## Changelog
+
+* **3.0.0**
+  * Updated ubuntu to 22.04 lts and node to 14
 
 * **2.0.1**
 
